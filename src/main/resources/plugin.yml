@@ -1,0 +1,11 @@
+name: nwusBedwars
+version: '1.0-SNAPSHOT'
+main: org.example.test.nwusBedwars.NwusBedwars
+api-version: '1.21'
+commands:
+  start:
+    description: Start a BedWars game
+    usage: /start
+  join:
+    description: Join a BedWars arena
+    usage: /join
