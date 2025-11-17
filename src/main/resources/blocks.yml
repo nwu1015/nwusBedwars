@@ -4,5 +4,9 @@ canBreak:
   - GREEN_WOOL
   - YELLOW_WOOL
   - RED_BED
+  - WHITE_WOOL
+  - OAK_WOOD
+  - OAK_PLANKS
+  - CRAFTING_TABLE
 NoPlace:
   - ACACIA_BOAT

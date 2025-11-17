@@ -11,13 +11,13 @@ permissions:
     default: op
     description: Create new arena
   bw.join:
-    default: op
+    default: true
     description: Join arena
   bw.delete:
     default: op
     description: Delete arena
   bw.list:
-    default: op
+    default: true
     description: List of arenas
   bw.getItem:
     default: op

@@ -2,7 +2,6 @@ package org.example.test.nwusBedwars;
 
 import org.bukkit.Bukkit;
 import org.bukkit.GameMode;
-import org.bukkit.Material;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.example.test.nwusBedwars.commands.ArenaCMD;

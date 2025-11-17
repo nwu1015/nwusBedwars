@@ -1,8 +1,6 @@
 package org.example.test.nwusBedwars.util;
 
-
 import org.bukkit.Bukkit;
-import org.bukkit.Material;
 import org.bukkit.World;
 import org.bukkit.WorldCreator;
 
