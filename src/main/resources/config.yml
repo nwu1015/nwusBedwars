@@ -2,9 +2,9 @@ required-players: 2
 countdown-seconds: 30
 lobby-spawn:
   world: 'world'
-  x: -65.5
-  y: -42
-  z: 77
+  x: 8
+  y: 125
+  z: 8
   yaw: 180
   pitch: 0
 areas:
@@ -12,26 +12,26 @@ areas:
     world: 'world'
     spawns:
       red:
-        x: 65.5
-        y: -53
-        z: 98.5
+        x: 62
+        y: 65
+        z: 8
         yaw: 180
         pitch: 0
       blue:
-        x: -84.5
-        y: -53
-        z: 79.5
+        x: 8
+        y: 65
+        z: -45
         yaw: -90
         pitch: 0
       green:
-        x: -65.5
-        y: -53
-        z: 54.5
+        x: -45
+        y: 65
+        z: 8
         yaw: 0
         pitch: 0
       yellow:
-        x: -44.5
-        y: -53
-        z: 79.5
+        x: 8
+        y: 65
+        z: 62
         yaw: 90
         pitch: 0
