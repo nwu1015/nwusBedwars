@@ -17,10 +17,6 @@ import org.example.test.nwusBedwars.util.Board;
 import org.example.test.nwusBedwars.util.Util;
 
 
-import java.util.ArrayList;
-import java.util.List;
-
-
 public class NwusBedwars extends JavaPlugin {
 
     private static NwusBedwars instance;
